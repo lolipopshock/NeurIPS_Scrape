@@ -1,6 +1,6 @@
 # NeurIPS_Scrape
 
-The NeurIPS workshop schedule page is not ideally clean and easy to use. Therefore, I tried to scrape the workshop information and organize them in an elegant way. 
+The NeurIPS workshop schedule page is not ideally clean and easy to use. Therefore, I tried to scrape the workshop information and organize them in an better way. 
 
 The code in `Scrape NeurIPS Workshop.ipynb` is simple and only uses `BeautifulSoup`, `Requests` and `Re`. Additionally, [`tqdm`](https://github.com/tqdm/tqdm) is used for timing the scraping. 
 
